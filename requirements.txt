@@ -1,0 +1,18 @@
+# Pandas
+pandas==0.20.3
+
+# NumPy
+numpy==1.13.1
+
+# SciPy
+scipy==0.19.1
+
+# Matplotlib
+matplotlib==2.2.3
+
+# Libraries for data processing (ugly data)
+xlrd==1.1.0
+bs4==4.4.1
+
+# Jupyter
+jupyter==1.0.0
