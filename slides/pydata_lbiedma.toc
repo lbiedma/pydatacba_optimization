@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Introducci\IeC {\'o}n}{2}{0}{1}
+\beamer@sectionintoc {2}{Teor\IeC {\'\i }a Moderna de Portafolios}{8}{0}{2}
+\beamer@sectionintoc {3}{Notebook}{9}{0}{3}
+\beamer@sectionintoc {4}{Conclusiones}{10}{0}{4}
