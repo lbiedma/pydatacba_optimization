@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.8.5)  28 SEP 2018 15:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.8.5)  29 SEP 2018 07:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1160,20 +1160,20 @@ LaTeX Info: Redefining \% on input line 25.
 )
 \openout1 = `pydata_lbiedma.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1239,7 +1239,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box59
-Package hyperref Info: Link coloring OFF on input line 17.
+Package hyperref Info: Link coloring OFF on input line 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1249,66 +1249,66 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count174
 )
-LaTeX Info: Redefining \ref on input line 17.
-LaTeX Info: Redefining \pageref on input line 17.
-LaTeX Info: Redefining \nameref on input line 17.
+LaTeX Info: Redefining \ref on input line 18.
+LaTeX Info: Redefining \pageref on input line 18.
+LaTeX Info: Redefining \nameref on input line 18.
 
 (./pydata_lbiedma.out) (./pydata_lbiedma.out)
 \@outlinefile=\write5
 \openout5 = `pydata_lbiedma.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 17.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 18.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 17.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 18.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 17.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 17.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 17.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 17.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 18.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 17.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 17.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 17.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 18.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 17.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 17.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 17.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 18.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 17.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 17.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 18.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 17.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 18.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 17.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 17.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 17.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 17.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 17.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 17.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 17.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 18.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 18.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 1
-7.
+8.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-17.
+18.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 17.
+ut line 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-bas
 ic-dictionary/translator-basic-dictionary-English.dict
@@ -1334,145 +1334,504 @@ Dictionary: translator-numbers-dictionary, Language: English
 orem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 17.
-LaTeX Info: Redefining \. on input line 17.
-LaTeX Info: Redefining \% on input line 17.
+LaTeX Info: Redefining \includegraphics on input line 18.
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
 
 (./pydata_lbiedma.nav)
-Overfull \vbox (16.67491pt too high) detected at line 19
+Overfull \vbox (16.67491pt too high) detected at line 20
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for U+msa on input line 21.
+<famaf.png, id=45, 423.5825pt x 141.52875pt>
+File: famaf.png Graphic file (type png)
+ <use famaf.png>
+Package pdftex.def Info: famaf.png used on input line 27.
+(pdftex.def)             Requested size: 227.62204pt x 76.05293pt.
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 21.
+<invera.png, id=47, 903.375pt x 903.375pt>
+File: invera.png Graphic file (type png)
+ <use invera.png>
+Package pdftex.def Info: invera.png used on input line 27.
+(pdftex.def)             Requested size: 91.04742pt x 91.04579pt.
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 21.
-
-(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
-File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
-thkerncmss.
-)
-[2
-
-] <desayuno.png, id=43, 479.7925pt x 182.6825pt>
-File: desayuno.png Graphic file (type png)
- <use desayuno.png>
-Package pdftex.def Info: desayuno.png used on input line 29.
-(pdftex.def)             Requested size: 364.19664pt x 138.67009pt.
-
-Overfull \hbox (0.4pt too wide) in paragraph at lines 29--29
+Overfull \hbox (0.4pt too wide) in paragraph at lines 27--27
 [][]  
  []
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 29.
+(Font)              size <5> substituted on input line 27.
+
+[2
+
+ <./famaf.png> <./invera.png>] (./pydata_lbiedma.toc
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 31--31
+[][]  
+ []
 
 [3
 
- <./desayuno.png>] <rations.jpg, id=52, 418.56375pt x 289.08pt>
-File: rations.jpg Graphic file (type jpg)
+]
+LaTeX Font Info:    Try loading font information for U+msa on input line 34.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 34.
 
-<use rations.jpg>
-Package pdftex.def Info: rations.jpg used on input line 37.
-(pdftex.def)             Requested size: 227.62204pt x 157.20361pt.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
+line 34.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 37--37
-[][]  
- []
-
-
-Overfull \vbox (2.13258pt too high) detected at line 37
- []
-
+(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+)
 [4
 
- <./rations.jpg>]
-File: rations.jpg Graphic file (type jpg)
- <use rations.jpg>
-Package pdftex.def Info: rations.jpg used on input line 37.
-(pdftex.def)             Requested size: 227.62204pt x 157.20361pt.
+] <desayuno.png, id=79, 479.7925pt x 182.6825pt>
+File: desayuno.png Graphic file (type png)
+ <use desayuno.png>
+Package pdftex.def Info: desayuno.png used on input line 41.
+(pdftex.def)             Requested size: 364.19664pt x 138.67009pt.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 37--37
+Overfull \hbox (0.4pt too wide) in paragraph at lines 41--41
 [][]  
- []
-
-
-Overfull \vbox (2.13258pt too high) detected at line 37
  []
 
 [5
 
-]
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 51.
+ <./desayuno.png>] <rations.jpg, id=86, 418.56375pt x 289.08pt>
+File: rations.jpg Graphic file (type jpg)
 
-LaTeX Font Info:    No file OMScmss.fd. on input line 51.
+<use rations.jpg>
+Package pdftex.def Info: rations.jpg used on input line 49.
+(pdftex.def)             Requested size: 227.62204pt x 157.20361pt.
 
-
-LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 51.
-
-<optimization.png, id=63, 886.81313pt x 285.31593pt>
-File: optimization.png Graphic file (type png)
- <use optimization.png>
-Package pdftex.def Info: optimization.png used on input line 51.
-(pdftex.def)             Requested size: 227.62204pt x 73.23131pt.
-
-Overfull \hbox (0.4pt too wide) in paragraph at lines 51--51
+Overfull \hbox (0.4pt too wide) in paragraph at lines 49--49
 [][]  
+ []
+
+
+Overfull \vbox (18.8075pt too high) detected at line 49
  []
 
 [6
 
- <./optimization.png>]
-File: optimization.png Graphic file (type png)
- <use optimization.png>
-Package pdftex.def Info: optimization.png used on input line 51.
-(pdftex.def)             Requested size: 227.62204pt x 73.23131pt.
+ <./rations.jpg>]
+File: rations.jpg Graphic file (type jpg)
+ <use rations.jpg>
+Package pdftex.def Info: rations.jpg used on input line 49.
+(pdftex.def)             Requested size: 227.62204pt x 157.20361pt.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 51--51
+Overfull \hbox (0.4pt too wide) in paragraph at lines 49--49
 [][]  
+ []
+
+
+Overfull \vbox (18.8075pt too high) detected at line 49
  []
 
 [7
 
-] [8
+]
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 70.
 
-] [9
+LaTeX Font Info:    No file OMScmss.fd. on input line 70.
+
+
+LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 70.
+
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 70--70
+[][]  
+ []
+
+[8
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 70--70
+[][]  
+ []
+
+[9
 
 ] [10
 
-] [11
+] <regression.png, id=117, 1405.25pt x 1059.96pt>
+File: regression.png Graphic file (type png)
+ <use regression.png>
+Package pdftex.def Info: regression.png used on input line 77.
+(pdftex.def)             Requested size: 273.14922pt x 206.03633pt.
 
-] <plazofijovsmerval.png, id=101, 1156.32pt x 650.43pt>
-File: plazofijovsmerval.png Graphic file (type png)
-
-<use plazofijovsmerval.png>
-Package pdftex.def Info: plazofijovsmerval.png used on input line 80.
-(pdftex.def)             Requested size: 409.71132pt x 230.46574pt.
-
-Overfull \hbox (11.37273pt too wide) in paragraph at lines 80--80
- [][] 
+Overfull \hbox (0.4pt too wide) in paragraph at lines 77--77
+[][]  
  []
 
 
-Overfull \vbox (3.30759pt too high) detected at line 80
+Overfull \vbox (26.08214pt too high) detected at line 77
+ []
+
+[11
+
+ <./regression.png (PNG copy)>]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 88--88
+[][]  
  []
 
 [12
 
- <./plazofijovsmerval.png>]
+] <kmeans.png, id=132, 618.81187pt x 551.05875pt>
+File: kmeans.png Graphic file (type png)
+ <use kmeans.png>
+Package pdftex.def Info: kmeans.png used on input line 95.
+(pdftex.def)             Requested size: 227.62204pt x 202.70294pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 95--95
+[][]  
+ []
+
+
+Overfull \vbox (22.74875pt too high) detected at line 95
+ []
+
+[13
+
+ <./kmeans.png>]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 107--107
+[][]  
+ []
+
+[14
+
+] <neuralnet.png, id=145, 437.635pt x 372.39125pt>
+File: neuralnet.png Graphic file (type png)
+ <use neuralnet.png>
+Package pdftex.def Info: neuralnet.png used on input line 113.
+(pdftex.def)             Requested size: 227.62204pt x 193.69002pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 113--113
+[][]  
+ []
+
+
+Overfull \vbox (13.73582pt too high) detected at line 113
+ []
+
+[15
+
+ <./neuralnet.png (PNG copy)>]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 131--131
+[][]  
+ []
+
+
+Overfull \vbox (8.50766pt too high) detected at line 131
+ []
+
+[16
+
+] <slope.jpg, id=157, 645.41125pt x 525.965pt>
+File: slope.jpg Graphic file (type jpg)
+ <use slope.jpg>
+Package pdftex.def Info: slope.jpg used on input line 143.
+(pdftex.def)             Requested size: 159.3382pt x 129.84567pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 143--143
+[][]  
+ []
+
+
+Overfull \vbox (10.29115pt too high) detected at line 143
+ []
+
+[17
+
+ <./slope.jpg>] <convexopt.png, id=163, 342.078pt x 250.536pt>
+File: convexopt.png Graphic file (type png)
+
+<use convexopt.png>
+Package pdftex.def Info: convexopt.png used on input line 148.
+(pdftex.def)             Requested size: 209.78949pt x 153.64644pt.
+ <globalopt.png, id=164, 578.16pt x 433.62pt>
+File: globalopt.png Graphic file (type png)
+
+<use globalopt.png>
+Package pdftex.def Info: globalopt.png used on input line 148.
+(pdftex.def)             Requested size: 204.86447pt x 153.64644pt.
+
+Overfull \hbox (16.31537pt too wide) in paragraph at lines 148--148
+[][][][][]  
+ []
+
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 148--148
+[][]  
+ []
+
+[18
+
+ <./convexopt.png> <./globalopt.png (PNG copy)>]
+File: convexopt.png Graphic file (type png)
+ <use convexopt.png>
+Package pdftex.def Info: convexopt.png used on input line 148.
+(pdftex.def)             Requested size: 209.78949pt x 153.64644pt.
+File: globalopt.png Graphic file (type png)
+
+<use globalopt.png>
+Package pdftex.def Info: globalopt.png used on input line 148.
+(pdftex.def)             Requested size: 204.86447pt x 153.64644pt.
+
+Overfull \hbox (16.31537pt too wide) in paragraph at lines 148--148
+[][][][][][][]  
+ []
+
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 148--148
+[][]  
+ []
+
+[19
+
+] <peanutsslope.jpg, id=178, 397.485pt x 335.2525pt>
+File: peanutsslope.jpg Graphic file (type jpg)
+ <use peanutsslope.jpg>
+Package pdftex.def Info: peanutsslope.jpg used on input line 154.
+(pdftex.def)             Requested size: 227.62204pt x 191.99112pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 154--154
+[][]  
+ []
+
+
+Overfull \vbox (12.03693pt too high) detected at line 154
+ []
+
+[20
+
+ <./peanutsslope.jpg>] <travelling.jpg, id=184, 451.6875pt x 127.22531pt>
+File: travelling.jpg Graphic file (type jpg)
+
+<use travelling.jpg>
+Package pdftex.def Info: travelling.jpg used on input line 160.
+(pdftex.def)             Requested size: 364.19664pt x 102.58795pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 160--160
+[][]  
+ []
+
+[21
+
+ <./travelling.jpg>]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 171--171
+[][]  
+ []
+
+[22
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 189--189
+[][]  
+ []
+
+[23
+
+] [24
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 205--205
+[][]  
+ []
+
+[25
+
+] <stock.jpg, id=215, 192.72pt x 128.3997pt>
+File: stock.jpg Graphic file (type jpg)
+ <use stock.jpg>
+Package pdftex.def Info: stock.jpg used on input line 211.
+(pdftex.def)             Requested size: 273.14922pt x 181.98598pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 211--211
+[][]  
+ []
+
+
+Overfull \vbox (2.03178pt too high) detected at line 211
+ []
+
+[26
+
+ <./stock.jpg>] <tradingview.png, id=221, 788.19469pt x 542.025pt>
+File: tradingview.png Graphic file (type png)
+
+<use tradingview.png>
+Package pdftex.def Info: tradingview.png used on input line 217.
+(pdftex.def)             Requested size: 295.90587pt x 203.48218pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 217--217
+[][]  
+ []
+
+
+Overfull \vbox (23.52798pt too high) detected at line 217
+ []
+
+[27
+
+ <./tradingview.png>]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 228--228
+[][]  
+ []
+
+[28
+
+] <microsoftbusiness.png, id=233, 779.91376pt x 202.7575pt>
+File: microsoftbusiness.png Graphic file (type png)
+
+<use microsoftbusiness.png>
+Package pdftex.def Info: microsoftbusiness.png used on input line 236.
+(pdftex.def)             Requested size: 227.62204pt x 59.17561pt.
+
+<satyanadella.jpeg, id=234, 304.54518pt x 181.71593pt>
+File: satyanadella.jpeg Graphic file (type jpg)
+ <use satyanadella.jpeg>
+Package pdftex.def Info: satyanadella.jpeg used on input line 236.
+(pdftex.def)             Requested size: 227.62204pt x 135.82077pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 236--236
+[][]  
+ []
+
+
+Overfull \vbox (21.91713pt too high) detected at line 236
+ []
+
+[29
+
+ <./microsoftbusiness.png> <./satyanadella.jpeg>]
+<elonbusiness.png, id=241, 1418.29875pt x 332.24126pt>
+File: elonbusiness.png Graphic file (type png)
+ <use elonbusiness.png>
+Package pdftex.def Info: elonbusiness.png used on input line 245.
+(pdftex.def)             Requested size: 295.90587pt x 69.31645pt.
+
+<elonweed.jpg, id=242, 1100.11pt x 618.31pt>
+File: elonweed.jpg Graphic file (type jpg)
+ <use elonweed.jpg>
+Package pdftex.def Info: elonweed.jpg used on input line 245.
+(pdftex.def)             Requested size: 227.62204pt x 127.9337pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 245--245
+[][]  
+ []
+
+
+Overfull \vbox (24.1709pt too high) detected at line 245
+ []
+
+[30
+
+ <./elonbusiness.png> <./elonweed.jpg>] [31
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 261--261
+[][]  
+ []
+
+[32
+
+] <diversification.jpg, id=261, 1760.5775pt x 1244.65pt>
+File: diversification.jpg Graphic file (type jpg)
+
+<use diversification.jpg>
+Package pdftex.def Info: diversification.jpg used on input line 267.
+(pdftex.def)             Requested size: 295.90587pt x 209.17574pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 267--267
+[][]  
+ []
+
+
+Overfull \vbox (29.22154pt too high) detected at line 267
+ []
+
+[33
+
+ <./diversification.jpg>] [34
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 286--286
+[][]  
+ []
+
+
+Overfull \vbox (14.80042pt too high) detected at line 286
+ []
+
+[35
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 286--286
+[][]  
+ []
+
+
+Overfull \vbox (14.80042pt too high) detected at line 286
+ []
+
+[36
+
+] <constraints.png, id=282, 587.19376pt x 516.93124pt>
+File: constraints.png Graphic file (type png)
+
+<use constraints.png>
+Package pdftex.def Info: constraints.png used on input line 298.
+(pdftex.def)             Requested size: 136.5746pt x 120.23259pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 298--298
+[][]  
+ []
+
+
+Overfull \vbox (1.17815pt too high) detected at line 298
+ []
+
+[37
+
+ <./constraints.png>] [38
+
+] [39
+
+]
+<plazofijovsmerval.png, id=299, 1156.32pt x 650.43pt>
+File: plazofijovsmerval.png Graphic file (type png)
+
+<use plazofijovsmerval.png>
+Package pdftex.def Info: plazofijovsmerval.png used on input line 325.
+(pdftex.def)             Requested size: 409.71132pt x 230.46574pt.
+
+Overfull \hbox (11.37273pt too wide) in paragraph at lines 325--325
+ [][] 
+ []
+
+
+Overfull \vbox (3.30759pt too high) detected at line 325
+ []
+
+[40
+
+ <./plazofijovsmerval.png>] [41
+
+]
 \tf@nav=\write6
 \openout6 = `pydata_lbiedma.nav'.
 
@@ -1482,16 +1841,16 @@ Overfull \vbox (3.30759pt too high) detected at line 80
 \tf@snm=\write8
 \openout8 = `pydata_lbiedma.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 82.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 331.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 331.
  (./pydata_lbiedma.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 82.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 331.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 331.
 Package rerunfilecheck Info: File `pydata_lbiedma.out' has not changed.
-(rerunfilecheck)             Checksum: 224D3B40C3B9B15B5E5894BD17B6225C;207.
+(rerunfilecheck)             Checksum: D469CC27D2A0A5A26FDBA1C9BA74C78C;329.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1500,25 +1859,33 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 331.
  ) 
 Here is how much of TeX's memory you used:
- 21315 strings out of 494891
- 417114 string characters out of 6179040
- 490664 words of memory out of 5000000
- 24080 multiletter control sequences out of 15000+600000
- 11885 words of font info for 43 fonts, out of 8000000 for 9000
+ 21591 strings out of 494891
+ 421477 string characters out of 6179040
+ 493779 words of memory out of 5000000
+ 24275 multiletter control sequences out of 15000+600000
+ 12550 words of font info for 45 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 71i,13n,95p,1728b,708s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on pydata_lbiedma.pdf (12 pages, 196644 bytes).
+ 71i,13n,95p,1728b,745s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmssi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msb
+m10.pfb>
+Output written on pydata_lbiedma.pdf (41 pages, 2060098 bytes).
 PDF statistics:
- 135 PDF objects out of 1000 (max. 8388607)
- 101 compressed objects within 2 object streams
- 29 named destinations out of 1000 (max. 500000)
- 95 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 379 PDF objects out of 1000 (max. 8388607)
+ 285 compressed objects within 3 object streams
+ 89 named destinations out of 1000 (max. 500000)
+ 196 words of extra memory for PDF output out of 10000 (max. 10000000)
 
