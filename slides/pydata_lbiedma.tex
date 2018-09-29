@@ -19,13 +19,6 @@
 
 \maketitle
 
-\begin{frame}{Un poco sobre mí}
-	\centering
-\includegraphics[width = .5\paperwidth]{famaf.png}
-
-\includegraphics[width = .2\paperwidth]{invera.png}
-\end{frame}
-
 \begin{frame}{Contenido}
 	\tableofcontents
 \end{frame}
@@ -104,6 +97,24 @@ argmin_S \sum_{i=1}^{k}\sum_{x \in S_i} \|x-\mu_i\|^2 =
 argmin_S \sum_{i=1}^{k}\#S_i Var(S_i)
 $$
 
+\end{frame}
+
+\begin{frame}{Sistemas de Recomendación}
+	\begin{center}
+		\includegraphics[width=.8\paperwidth]{recommendermatrix.png}
+	\end{center}
+\end{frame}
+
+\begin{frame}{Factorización de matrices incompletas}
+
+	Dada una matriz $A$ ``con huecos", encontrar la descomposición de la misma en un conjunto de dos matrices más pequeñas, $U$ y $V$, que representen a los usuarios e items, respectivamente y tal que $A = U V^T$.
+	
+	Si $r_{u,i} = \hat{u}_u^T\hat{v}_i$ y $K$ es el conjunto de observaciones:
+	
+	$$
+	\min_{u\star, v\star} \sum_{(u,i) \in K}c_{u,i}(r_{u,i} - u_u^Tv_i)^2 + \lambda (\|u_u\|^2 + \|v_i\|^2)
+	$$
+	
 \end{frame}
 
 \begin{frame}{Redes Neuronales}
@@ -192,7 +203,7 @@ Un Framework que permita aplicarlo:
 
 \begin{frame}{Algunos conceptos básicos}
 \begin{itemize}
-\item[Acción:] Un activo financiero que representa la tenencia de una parte de una empresa. Es probablemente el activo más popular a nivel mundial.
+\item[Acción:] Un activo financiero que representa la tenencia de una fracción del capital de una empresa. Es probablemente el activo más popular a nivel mundial.
 
 \item[Mercado:] Intermediario que permite la interacción de compradores y vendedores de algún tipo de activo financiero.
 
@@ -268,6 +279,12 @@ Un Framework que permita aplicarlo:
 
 \section{Notebook}
 
+\begin{frame}{Datos}
+\begin{center}
+\includegraphics[width = .7\paperwidth]{bolsar.png}
+\end{center}
+\end{frame}
+
 \begin{frame}{Modelemos nuestro problema}
 \begin{itemize}
 \item $W = (w_1, w_2, \dots, w_n)$ es el vector de los pesos que le asignemos a cada acción en la que se puede invertir.
@@ -325,7 +342,8 @@ $$}
 \end{frame}
 
 \begin{frame}
-\huge Muchas gracias!
+	\centering
+	\huge Muchas gracias!
 \end{frame}
 
 \end{document}
