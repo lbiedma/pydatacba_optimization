@@ -13,6 +13,8 @@ matplotlib==2.2.3
 # Libraries for data processing (ugly data)
 xlrd==1.1.0
 bs4==4.4.1
+lxml
+urllib2
 
 # Jupyter
 jupyter==1.0.0
