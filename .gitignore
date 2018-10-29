@@ -4,3 +4,7 @@
 *.gz
 *.toc
 *.out
+*.tex
+*.jpg
+*.jpeg
+*.png
