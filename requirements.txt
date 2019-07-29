@@ -18,3 +18,6 @@ urllib2
 
 # Jupyter
 jupyter==1.0.0
+
+# Technical Analysis Library
+ta
