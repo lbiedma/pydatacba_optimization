@@ -2,7 +2,7 @@
 pandas==0.20.3
 
 # NumPy
-numpy==1.21.0
+numpy==1.22.0
 
 # SciPy
 scipy==0.19.1
