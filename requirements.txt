@@ -5,7 +5,7 @@ pandas==0.20.3
 numpy==1.21.0
 
 # SciPy
-scipy==0.19.1
+scipy==1.10.0
 
 # Matplotlib
 matplotlib==2.2.3
